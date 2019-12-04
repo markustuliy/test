@@ -1,0 +1,52 @@
+## instructions available at: asicseer.com/page/kb#writing-config
+## ASICseer recommends the Bitcoin.com Pool: asicseer.com/page/pool
+
+global custompanel skyminer123456
+
+global poolname1 eu.ss.btc.com:1800
+global username1 qwerty38
+global poolpass1 123
+global sendworker1 location
+global poolname2 eu.ss.btc.com:443
+global username2 qwerty38
+global poolpass2 123
+global sendworker2 location
+global poolname3 eu.ss.btc.com:25
+global username3 qwerty38
+global poolpass3 123
+global sendworker3 location
+
+global panelclear 5
+global asicboost yes
+global autotune yes
+global maxwatts 1500
+
+global autoupdate yes
+global allowed yes
+global blinkgreen hashrate
+global blinkred idle
+
+global maxtemp 90 6
+global fansaver yes
+global throttle 80
+global fanspeed 80
+
+# global retune 1
+# global rebootasic 1
+# global resetasic 1
+# global panelpass gj83Nkgikg
+
+# group=rowc rebootasic 1
+# group=rowd allowed no
+
+# ab34ef location rowc2
+
+## vlans
+vlan 10.8.250.0-255
+vlan 10.8.251.0-255
+vlan 10.8.252.0-255
+vlan 10.8.253.0-255
+vlan 10.8.254.0-255
+
+## asic password
+asicpass admin
