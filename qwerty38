@@ -1,7 +1,7 @@
 ## instructions available at: asicseer.com/page/kb#writing-config
 ## ASICseer recommends the Bitcoin.com Pool: asicseer.com/page/pool
 
-global custompanel skyminer123456
+global custompanel qwerty123456
 
 global poolname1 eu.ss.btc.com:1800
 global username1 qwerty38
