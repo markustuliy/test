@@ -29,7 +29,7 @@ global blinkred idle
 global maxtemp 90 6
 global fansaver yes
 global throttle 80
-global fanspeed 80
+global fanspeed 60
 
 # global retune 1
 # global rebootasic 1
