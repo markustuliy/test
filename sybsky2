@@ -3,11 +3,11 @@
 
 global custompanel sybsky123456
 
-global poolname1 eu1.btc.bitriver.farm:7913
+global poolname1 192.168.77.12:1239
 global username1 sybsky2
 global poolpass1 x
 global sendworker1 location
-global poolname2 eu2.btc.bitriver.farm:7913
+global poolname2 192.168.77.13:1239
 global username2 sybsky2
 global poolpass2 x
 global sendworker2 location
