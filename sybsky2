@@ -3,16 +3,16 @@
 
 global custompanel sybsky123456
 
-global poolname1 btc-mow.f2pool.com:1314
-global username1 cyberianpool
+global poolname1 192.168.8.2:3333
+global username1 Skyminer
 global poolpass1 x
 global sendworker1 location
-global poolname2 btc-eu.f2pool.com:3333
-global username2 cyberianpool
+global poolname2 192.168.8.2:3333
+global username2 Skyminer
 global poolpass2 x
 global sendworker2 location
-global poolname3 btc.f2pool.com:25
-global username3 cyberianpool
+global poolname3 192.168.8.2:3333
+global username3 Skyminer
 global poolpass3 x
 global sendworker3 location
 
