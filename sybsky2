@@ -3,15 +3,15 @@
 
 global custompanel sybsky123456
 
-global poolname1 192.168.8.2:3333
+global poolname1 bs.poolbinance.com:3333
 global username1 Skyminer
 global poolpass1 x
 global sendworker1 location
-global poolname2 192.168.8.2:3333
+global poolname2 bs.poolbinance.com:8888
 global username2 Skyminer
 global poolpass2 x
 global sendworker2 location
-global poolname3 192.168.8.2:3333
+global poolname3 sha256.poolbinance.com:8888
 global username3 Skyminer
 global poolpass3 x
 global sendworker3 location
